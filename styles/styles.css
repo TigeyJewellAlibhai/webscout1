@@ -1,0 +1,134 @@
+
+button {
+  background-color: #111111; 
+  border: #ff5d73;
+  color: gray;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: Righteous, sans-serif;
+  font-size: 16px;
+}
+
+body{
+	text-align: center;
+ 	background-color: #000000;
+  	color: #ff5d73;
+  	font-family: Righteous, sans-serif;
+
+}
+
+.container-fluid {
+	text-align: center;
+ 	background-color: #000000;
+  	color: #ff5d73;
+  	font-family: Righteous, sans-serif;
+	padding: 30px;
+}
+
+.bar {
+	background-color: #121212;
+	padding: 30px;
+	border: white;
+	border-style: solid;
+}
+
+
+.top {
+	text-align: center;
+	background-color: #212121;
+	color: #ff5d73;
+	padding: 8px;
+	font-family: Righteous, sans-serif;
+
+}
+
+
+.main{
+	text-align: center;
+	background-color: #212121;
+	color: #ff5d73;
+	padding: 8px;
+	height: 200px;
+	font-family: Righteous, sans-serif;
+	border-style: solid;
+}
+
+.status{
+	text-align: center;
+	background-color: #212121;
+	color: #ff5d73;
+	height: 400px;
+	padding: 8px;
+	font-family: Righteous, sans-serif;
+	border-style: solid;
+}
+
+.clear{
+	clear:both;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
