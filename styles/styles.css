@@ -1,3 +1,7 @@
+#all{
+	text-align: center;
+}
+
 
 button {
   background-color: #111111; 
@@ -13,16 +17,16 @@ button {
 
 body{
 	text-align: center;
- 	background-color: #000000;
-  	color: #ff5d73;
+ 	background-color: #212121;
+  	color: #ffffff;
   	font-family: Righteous, sans-serif;
 
 }
 
 .container-fluid {
 	text-align: center;
- 	background-color: #000000;
-  	color: #ff5d73;
+ 	background-color: #212121;
+  	color: #ffffff;
   	font-family: Righteous, sans-serif;
 	padding: 30px;
 }
@@ -34,6 +38,18 @@ body{
 	border-style: solid;
 }
 
+.headerbar {
+	text-align: center;
+	background-color: #000000;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	border-bottom-color: #000000;
+	border-style: solid;
+	color: white;
+
+}
 
 .top {
 	text-align: center;
@@ -74,6 +90,11 @@ html {
 	
 }
 
+
+.framepadding{
+	margin: 20px
+
+}
 
 
 
