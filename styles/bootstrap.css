@@ -18,7 +18,7 @@
   --green: #28a745;
   --teal: #20c997;
   --cyan: #17a2b8;
-  --white: #fff;
+  --white: #ffffff;
   --gray: #6c757d;
   --gray-dark: #343a40;
   --primary: #343a40;
@@ -6081,17 +6081,17 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #007bff !important;
+  background-color: #121212 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #0062cc !important;
+  background-color: #121212 !important;
 }
 
 .bg-secondary {
-  background-color: #6c757d !important;
+  background-color: #000000 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,

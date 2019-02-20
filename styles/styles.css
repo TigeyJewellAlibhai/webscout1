@@ -51,6 +51,18 @@ body{
 
 }
 
+.headerbar2 {
+	text-align: center;
+	background-color: #000000;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	border-style: solid;
+	color: white;
+
+}
+
 .top {
 	text-align: center;
 	background-color: #212121;
@@ -100,10 +112,13 @@ html {
 	text-align: center;
 	position: absolute;
 	margin-left: 50%;
+	font-weight: normal;
 }
 
+nav{
+	background-color: #121212;
 
-
+}
 
 
 
