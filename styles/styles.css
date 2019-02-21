@@ -120,6 +120,14 @@ nav{
 
 }
 
+a {
+	color: #ffffff;
+	
+}
+
+a:hover {
+	color: #ff5d73
+}
 
 
 
